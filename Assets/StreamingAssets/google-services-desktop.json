@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "656579162211",
+    "project_id": "jump-and-smash",
+    "storage_bucket": "jump-and-smash.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656579162211:android:5f851e3e83d80d378f4856",
+        "android_client_info": {
+          "package_name": "com.arcadeboiii3.Jumpandsmash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "656579162211-pr2mtv5g9qp0171g1d1rn67ajjodqjjq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDunv_0SdLoRM9bYPrI6ByUmf9x3WFSA1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "656579162211-pr2mtv5g9qp0171g1d1rn67ajjodqjjq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "656579162211-tq7oknb2jg402nureglffatnftred3mi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.arcadeboiii3.Jumpandsmash"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

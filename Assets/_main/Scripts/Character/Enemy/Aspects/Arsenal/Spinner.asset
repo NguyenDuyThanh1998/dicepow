@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9293850b87686cd409bd7fb3ffd22c5d, type: 3}
+  m_Name: Spinner
+  m_EditorClassIdentifier: 
+  dataName: 
+  description: 
+  sprite: {fileID: 0}
+  bullets:
+  - {fileID: 1148811902849093482, guid: e0a06bd19fbbc0f4a9ac51a7e185ba98, type: 3}
+  patterns:
+  - {fileID: 11400000, guid: 5f8b4fc355dd48640a4697388c3372f6, type: 2}

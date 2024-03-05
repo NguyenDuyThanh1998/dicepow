@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 988c0aef7c748614d8aed4d42f94a961, type: 3}
+  m_Name: Pattern_Super01_1
+  m_EditorClassIdentifier: 
+  speedRange: {x: 4, y: 5}
+  bulletSpeed: 4.771696
+  countRange: {x: 20, y: 30}
+  bulletCount: 21

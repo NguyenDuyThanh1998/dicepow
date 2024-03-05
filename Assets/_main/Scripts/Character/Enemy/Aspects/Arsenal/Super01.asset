@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9293850b87686cd409bd7fb3ffd22c5d, type: 3}
+  m_Name: Super01
+  m_EditorClassIdentifier: 
+  dataName: 
+  description: 
+  sprite: {fileID: 0}
+  bullets:
+  - {fileID: 4285225867003871327, guid: 881c5972fc6bd604e8dd0f66d735b9ec, type: 3}
+  - {fileID: -3335930466212495291, guid: 1a9731eeb9748e64e965748a1af5abd3, type: 3}
+  - {fileID: 3246264253972514936, guid: f32792e98ed6693449384360e766515c, type: 3}
+  patterns:
+  - {fileID: 11400000, guid: d4ff92620b5536445bfc10163e15fd27, type: 2}
+  - {fileID: 11400000, guid: e6b826d05d08c4a4bb14b3c4fb937078, type: 2}
+  - {fileID: 11400000, guid: 185566e6fa9a4c54ba5093b215fba9c2, type: 2}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4486dd620b660a749806453c52f87cd9, type: 3}
+  m_Name: LE_Straign
+  m_EditorClassIdentifier: 
+  dataName: 
+  description: Shoot straign bullet with speed {0}
+  sprite: {fileID: 1493969982, guid: bc657902fe934b2499cdb9bea5d0f4bc, type: 3}
+  bullet: {fileID: 514984755706144065, guid: 1afaa596dcea77e4eb19f9ecd01377f7, type: 3}
+  speed: 3

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">656579162211</string>
+  <string name="google_storage_bucket" translatable="false">jump-and-smash.appspot.com</string>
+  <string name="project_id" translatable="false">jump-and-smash</string>
+  <string name="google_api_key" translatable="false">AIzaSyDunv_0SdLoRM9bYPrI6ByUmf9x3WFSA1A</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDunv_0SdLoRM9bYPrI6ByUmf9x3WFSA1A</string>
+  <string name="google_app_id" translatable="false">1:656579162211:android:5f851e3e83d80d378f4856</string>
+  <string name="default_web_client_id" translatable="false">656579162211-pr2mtv5g9qp0171g1d1rn67ajjodqjjq.apps.googleusercontent.com</string>
+</resources>

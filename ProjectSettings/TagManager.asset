@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EBullet
+  - Barrier
+  - Shield
+  - Shockwave
+  - Enemy
+  - EnemyWallcheck
+  - PBullet
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Boundary
+  - Wallcheck
+  - Shockwave
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 13014825
+    locked: 0
+  - name: Bullet
+    uniqueID: 440698219
+    locked: 0
+  - name: Char
+    uniqueID: 3728871421
+    locked: 0
+  - name: Foreground
+    uniqueID: 3368635617
+    locked: 0
+  - name: UI
+    uniqueID: 1965643469
+    locked: 0
